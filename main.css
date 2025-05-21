@@ -1,0 +1,31 @@
+input{
+    width:250px;
+}
+.ded{
+    height: 100px;
+}
+button{
+    background-color: green;
+    width: 100px;
+}
+img{
+    border-radius: 20px;
+}
+table{
+    border: 2px solid black;
+}
+td{
+    border: 2px solid black;
+    width: 2000px;
+    height: 25px;
+    font-size: 30px;
+    background-color: white;
+}
+iframe{
+    width: 100%;
+}
+.don{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
